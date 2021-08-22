@@ -6,7 +6,7 @@ public class DestroyOutOfBounds : MonoBehaviour
 {
     private float topBound = 30f;
     private float lowerBound = -10f;
-    public int lives = 3;
+    
 
     // Start is called before the first frame update
     void Start()
